@@ -13,6 +13,6 @@ Her er nogle ting man skal overveje.
 1. Først skal du og den anden i gruppen forbinde server og client, fra hver sin computer.
 2. Så skal man overveje hvilke informationer der skal sendes og hvordan man læser denne når man modtager den (det kaldes en protokol).
 3. Så må man overveje hvordan man laver koden således at den hele tiden lytter på nye inputs (kræver en tråd).
-4... osv. der er mange ting at overveje og de behøves ikke at gøres i den rækkefølge jeg har skitseret her, det er bare en "komme igang" liste.
+4. ....osv. der er mange ting at overveje og de behøves ikke at gøres i den rækkefølge jeg har skitseret her, det er bare en "komme igang" liste.
 
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/5a3af35c-12d2-4b2f-8371-1194be72797a" />
